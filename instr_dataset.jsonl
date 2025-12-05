@@ -1,0 +1,4 @@
+{"instruction": "Write a professional email asking for a meeting about the Q3 report.", "response": "Dear Maria,\n\nI hope you are doing well. I would like to schedule a 30-minute meeting to discuss the Q3 report and next steps. Are you available next Tuesday at 3 PM? Best regards,\nHabtemariam"}
+{"instruction": "Explain what a for-loop does in simple terms.", "response": "A for-loop repeats a block of code several times, once for each item in a list or range. It's used to automate repeated tasks."}
+{"instruction": "Create a short checklist for deploying a web app.", "response": "1. Run tests\n2. Build artifacts\n3. Backup DB\n4. Deploy to staging and smoke-test\n5. Deploy to production"}
+{"instruction": "Write a casual invitation message for a meetup.", "response": "Hey everyone! I'm hosting a meetup on Friday at 7pm. Snacks provided — hope to see you there!"}
