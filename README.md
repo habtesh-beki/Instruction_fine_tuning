@@ -36,7 +36,7 @@ If you want to run on CPU only (no GPU required), PyTorch CPU version works fine
 ## 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/gpt2-instruction-finetune.git
+git clone https://github.com/habtesh-beki/Instruction_fine_tuning.git
 cd gpt2-instruction-finetune
 ```
 
